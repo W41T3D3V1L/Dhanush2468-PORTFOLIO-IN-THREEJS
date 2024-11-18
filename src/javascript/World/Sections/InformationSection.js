@@ -93,7 +93,7 @@ export default class InformationSection
                 labelTexture: this.resources.items.informationContactTwitterLabelTexture
             },
             {
-                href: 'https://github.com/Dhanush2468',
+                href: 'https://github.com/W41T3D3V1L',
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
